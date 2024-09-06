@@ -1,0 +1,4 @@
+CREATE DATABASE signup;
+USE signup;
+CREATE TABLE signin (fname CHAR(100), lname CHAR(100),mobno VARCHAR(10), dob VARCHAR(20), mail VARCHAR(100), pw VARCHAR(10)
+CREATE TABLE customers (username VARCHAR(100),customer_id VARCHAR(50),first_name VARCHAR(100),last_name VARCHAR(100),address VARCHAR(100),pincode VARCHAR(100),places VARCHAR(100),email VARCHAR(100),gender VARCHAR(100),dob VARCHAR(100),id_type VARCHAR(100),check_In VARCHAR(100),check_out VARCHAR(100),food VARCHAR(100),room_type VARCHAR(100),vehicle_type VARCHAR(100),noppl VARCHAR(100),hotel_amt VARCHAR(100),service_amt VARCHAR(100),transprtation_amt VARCHAR(100),subtotal_amt VARCHAR(100),gst_amt VARCHAR(100),total_amt VARCHAR(100)

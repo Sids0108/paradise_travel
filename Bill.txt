@@ -1,0 +1,33 @@
+=============================================
+====================INVOICE==================
+=============================================
+
+Customer Number: 	937353
+Name:		Sid S
+Address: 		Kalpakkam
+Pin Code: 		603102
+Place: 		Munnar
+Mail Id: 		sid@ghmail.com
+Gender: 		Male
+D.O.B: 		01-08-2003
+ID Type: 		Passport
+Check-In Date:		12/4/24
+No. of days:		2
+Food Type: 		14
+Room Type: 		AC
+Vehicle Type: 		Hatchback
+No of persons: 		2
+
+=============================================
+===============TAX & TOTAL===================
+
+Hotel Charge: 				2400
+Service Charge: 				300
+Transportation Charge: 				1600
+SubTotal: 				4300
+GST: 				774.0
+
+TOTAL: 				5074.0
+
+============================================
+===============THANK YOU====================

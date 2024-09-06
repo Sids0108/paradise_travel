@@ -1,0 +1,87 @@
+h1{
+	color: white;
+	padding-left: 800px;
+	padding-top: 80px;
+	position: absolute;
+	font-size: 53px;
+	font-family: 'simplifica';
+
+}
+h3{	color: white;
+	padding-left: 650px;
+	padding-top: 430px;
+	position: absolute;
+	font-size: 50px;
+	font-family: 'Josefin Sans';
+
+}
+
+
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("picforfir.jpeg");
+	
+	background-size: cover;
+	background-image: linear-gradient:rgba(0,0,0,0.75);
+	opacity: 5;
+}
+ nav ul{
+	position: absolute;
+	
+
+}
+ nav ul li{
+	display: inline-block;
+	color: white;
+	border: 1px solid transparent;
+	
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	font-size: 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+	
+}
+ nav a:hover{
+	text-decoration: underline;
+}
+.class{
+	font-size: 45px;
+
+
+
+}
+.items ul {
+     margin:0;
+       padding:0;
+      text-align: center;
+     list-style:none; 
+     line-height: 20px; 
+     margin-top: 300px;
+     font-size: 40px;              
+ }
+ .items ul  li {
+         padding: 2px 5px;  
+         line-height: 60px; 
+         text-decoration: none;            
+       }
+.items a{
+	color: white;
+	line-height: 20px;
+	margin-top: 500px;
+	text-align: center;
+
+    line-height: 20px;
+    text-decoration: none; 
+}
+.items a:hover{
+	text-decoration:underline;
+	transition: 0.6s ease;
+}
+
+
+
+

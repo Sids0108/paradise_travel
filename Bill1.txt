@@ -1,0 +1,33 @@
+=============================================
+====================INVOICE==================
+=============================================
+
+Customer Number:
+Name:		 
+Address: 		
+Pin Code: 		
+Place: 		
+Mail Id: 		
+Gender: 		
+D.O.B: 		
+ID Type: 		
+Check-In Date:		
+No. of Days:		
+Food Type: 		
+Room Type: 		
+Vehicle Type: 		
+No of persons: 		
+
+=============================================
+===============TAX & TOTAL===================
+
+Hotel Charge:
+Service Charge:
+Transportation Charge:
+SubTotal:
+GST:
+
+TOTAL:
+
+============================================
+===============THANK YOU====================

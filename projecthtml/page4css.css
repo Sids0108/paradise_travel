@@ -1,0 +1,101 @@
+body{
+	font:sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #F2F4F4;
+}
+header h1{
+	margin:10px;
+	text-align: center;
+}
+
+
+
+
+header{
+	background:#52504F;
+	color: white;
+	font-family: sans-serif;
+	font-size: 30px;
+	margin: 0;
+	padding-top: 30px;
+	height: 120px;
+	border-bottom: red 5px solid;
+	
+}
+header a{
+	color: white;
+	text-decoration: none;
+	font-size: 22px;
+
+}
+header ul{
+	margin: 0;
+	padding: 0;
+
+}
+header li{
+	padding-top: 20px;
+	float:left;
+	display: inline;
+	padding: 0 20px 0 20px;
+	font-size: 15px;
+}
+nav{
+	float: right;
+
+}
+#info{
+	text-align: center;
+	font-size: 25px;
+	margin: auto;
+	margin-left: 400px;
+	margin-right: 25px;
+	min-height: 400px;
+
+}
+
+#img1{
+	height: 400px;
+	float: left;
+	width: 30%;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+h3{
+	font-size: 40px;
+	text-align: center;
+}
+#place1{
+	margin-right: 500px;
+	font-size: 25px;
+	margin-left: 20px;
+}
+#place1h{
+	font-size: 28px;
+	margin-left: 20px;
+}
+#place2{
+	margin-right: 500px;
+	font-size: 25px;
+	margin-left: 20px;
+}
+#place2h{
+	font-size: 28px;
+	margin-left: 20px;
+}
+#rose{
+	float: right;
+	margin-right: 60px;
+	margin-left: 20px;
+	margin-top: 0px;
+}
+#bttv{
+	font-size: 28px;
+	margin-left: 500px;
+}
+#nr{
+	font-size: 28px;
+	margin-left: 500px;
+}

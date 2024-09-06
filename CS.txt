@@ -1,0 +1,8 @@
+PARADISE TRAVEL is an online booking system aimed to provide the users to book holiday packages for their holidays from anywhere and anytime through their mobile or laptop. This software is fundamentally made to introduce users to beautiful places of sightseeing in India and also to relax in their vacation.
+This software also provides information about that places like - which to visit , how to visit and best time to visit with travel facilities.
+Admin will be able to provide the tickets and invoice. They keep and manage the data provided by the user. Also they provide you their own package.
+The users have the following accessibility towards the software:-
+Users have the option to design their own package.
+Users can cancel their booking dates.
+Users can book a family package for a concessional rate.
+Users can give feedback and ratings about their experience which will also be uploaded in the website.
